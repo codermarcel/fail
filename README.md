@@ -1,4 +1,4 @@
-Go Package that makes it easy to work with errors.
+## Go Package that makes it easy to work with errors.
 
 `go get github.com/codermarcel/fail`
 
